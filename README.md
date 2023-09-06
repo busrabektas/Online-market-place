@@ -6,20 +6,6 @@
 <br/>
 <br/>
 
-**LOGIN**
-##
-<img width="1511" alt="login" src="https://github.com/busrabektas/Online-market-place/assets/126101505/1329df6b-9231-44b5-a003-81846db8fcb3">
-
-<br/>
-<br/>
-
-**SIGNUP**
-##
-<img width="1510" alt="signup" src="https://github.com/busrabektas/Online-market-place/assets/126101505/246b0002-4ec9-4ec3-8ca9-966acc5d9e13">
-
-<br/>
-<br/>
-
 **PRODUCT PAGE**
 ##
 <img width="1510" alt="product_page" src="https://github.com/busrabektas/Online-market-place/assets/126101505/0a252290-876e-4180-b460-748dccb1286c">
@@ -69,5 +55,17 @@
 
 <br/>
 <br/>
+**LOGIN**
+##
+<img width="1511" alt="login" src="https://github.com/busrabektas/Online-market-place/assets/126101505/1329df6b-9231-44b5-a003-81846db8fcb3">
 
+<br/>
+<br/>
+
+**SIGNUP**
+##
+<img width="1510" alt="signup" src="https://github.com/busrabektas/Online-market-place/assets/126101505/246b0002-4ec9-4ec3-8ca9-966acc5d9e13">
+
+<br/>
+<br/>
 
