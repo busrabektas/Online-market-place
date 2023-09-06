@@ -45,9 +45,10 @@
 <br/>
 <br/>
 
+
 **EDIT-DELETE ITEM**
 ##
-<img width="1507" alt="newitem" src="https://github.com/busrabektas/Online-market-place/assets/126101505/cf679274-85f0-46f9-80c8-396cea274c55">
+<img width="1508" alt="edit-delete-items" src="https://github.com/busrabektas/Online-market-place/assets/126101505/0db38ccf-23b4-480c-ae2e-6839ead1143c">
 
 <br/>
 <br/>
